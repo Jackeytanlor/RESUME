@@ -1,5 +1,5 @@
 # 个人项目
-
+--------------
 ### [项目一：](https://github.com/Jackeytanlor/DSSS_ASSESSMENT/blob/main/DSSS_assessment.ipynb)数据分析 | 温哥华社会研究
 2022.04-2022.05
 
@@ -10,7 +10,7 @@ https://github.com/Jackeytanlor/DSSS_ASSESSMENT/blob/main/DSSS_assessment.ipynb
 数据处理：通过研究报告筛选普查数据指标，清洗温哥华各网格人口百万级数据。
 
 数据分析：利用Python对人群年龄，种族，流动等数据进行深挖。构建随机森林与线型模型并挖掘出群体构成数据与犯罪率存在内在相关性。并通过聚类分析分类区域问题，提出管理建议。
-
+--------------
 ###  [项目二：](https://casa0003group8.github.io/HousepriceSF/index/housepriceSF)地理数据分析可视化项目 | 旧金山房源研究 
 2022.03-2022.05
 
@@ -21,7 +21,7 @@ https://casa0003group8.github.io/HousepriceSF/index/housepriceSF
 综合协调：担任队长负责6人团队7次会议组织与工作进度把控，推动项目整体进度。
 
 数据分析：利用Python进行数据清洗并对旧金山房价增长与人群收入，年龄，种族等要素进行线性模型建模，发现房源与人群分布特征之间的相关性。根据分析结果使用HTML与mapbox.js搭建前端页面可视化平台。
-
+--------------
 ###  [项目三：](https://github.com/Jackeytanlor/BAN_166_Group/blob/main/BAN.md)建筑黑客马拉松 | 一键排砖产品 
 2022.01-2022.03
 
